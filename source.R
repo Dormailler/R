@@ -1,6 +1,6 @@
 # 2021년 사망 교통사고 정보
 library(ggmap)
-register_google(key='AIzaSyCxJq8tlDIj8KiNayhBNrA2R_AkGjamNpE')    # 구글키 등록
+register_google(key='##')    # 구글키 등록
 library(ggplot2)
 
 setwd("C:\\Users\\gerre\\Desktop")                                # 작업 폴더 지정
